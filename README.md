@@ -1,4 +1,4 @@
-# DataSciences
+# Programming language trends on google (2014-2017) | Data Sciences Project
 
 Here is a data plotting of the google trends of 4 programming languages (Python, JavaScript, C++ and SQL) from 2014 to 2017.
 
