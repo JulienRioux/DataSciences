@@ -62,7 +62,7 @@ for i in range(len(peaks)):
     
 
 # Add some marker to see the peaks and the minimums values
-for i in range(len(peaksD)):
+for i in range(len(peaksValue)):
     plt.plot(peaksTime[i], peaksValue[i], trendsColors[i], marker='o', markersize=20, alpha=0.5)
     plt.plot(minTime[i], minValue[i], trendsColors[i], marker='o', markersize=20, alpha=0.5)
     plt.plot(peaksTime[i], peaksValue[i], "#353535", marker='*', markersize=12, alpha=1)
