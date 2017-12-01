@@ -110,8 +110,3 @@ for i in peaks:
     print("*" + " "*(specialN) + "*")
 print("*"*(specialN + 2))
 
-
-# In[ ]:
-
-
-
