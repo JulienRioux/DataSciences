@@ -10,5 +10,5 @@ with a linear regression and the minimum value and maximum value over this perio
 <p align="center"> 
   <br />
   <br />
-  <img src="programmingLanguageTrends.png">
+  <img src="ProgrammingLanguageGoogleTrends.png">
 </p>
